@@ -1,0 +1,32 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/Texas\ Holdem\ Poker\ Cards\ and\ Casino\ Chips\ Stock\ Image\ -\ Image\ of\ green\,\ gamble_\ 6410645.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    place-content: center;
+    
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
