@@ -2,7 +2,8 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/Texas\ Holdem\ Poker\ Cards\ and\ Casino\ Chips\ Stock\ Image\ -\ Image\ of\ green\,\ gamble_\ 6410645.jpeg");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
     font-weight: bold;
     color: white;
     text-align: center;
